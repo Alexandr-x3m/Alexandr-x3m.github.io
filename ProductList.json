@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "name": "sweatshirt",
+        "brand": "Quicksilver",
+        "category": "clothes",
+        "price": 4990,
+        "sale": 40,
+        "sale_price": 2990,
+        "article": "21020-W18_020",
+        "color": [
+            "white",
+            "blue",
+            "green"
+        ],
+        "size": [
+            "M",
+            "L",
+            "XL"
+        ],
+        "description": "product description product description product description product description product description product description product description product description product description product description ",
+        "images": [
+            {
+                "id": 1,
+                "description": "description image 1",
+                "image": "https://via.placeholder.com/300x300.png",
+                "thumbnail": "https://via.placeholder.com/90x90.png"
+            },
+            {
+                "id": 2,
+                "description": "description image 2",
+                "image": "https://via.placeholder.com/300x300.png",
+                "thumbnail": "https://via.placeholder.com/90x90.png"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "sweatshirt",
+        "brand": "Brand 2",
+        "category": "clothes",
+        "price": 3990,
+        "sale": 30,
+        "sale_price": 2990,
+        "article": "2192132-W18_020",
+        "color": [
+            "white",
+            "blue",
+            "green"
+        ],
+        "size": [
+            "M",
+            "L",
+            "XL"
+        ],
+        "description": "product description product description product description product description product description product description product description product description product description product description ",
+        "images": [
+            {
+                "id": 3,
+                "description": "description image 1",
+                "image": "https://via.placeholder.com/300x300.png",
+                "thumbnail": "https://via.placeholder.com/90x90.png"
+            }
+        ]
+    }
+]
