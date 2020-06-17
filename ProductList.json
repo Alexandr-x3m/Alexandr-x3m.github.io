@@ -5,7 +5,7 @@
         "brand": "Quicksilver",
         "category": "clothes",
         "price": 4990,
-        "sale": 40,
+        "sale": 40%,
         "sale_price": 2990,
         "article": "21020-W18_020",
         "color": [
@@ -40,7 +40,7 @@
         "brand": "Brand 2",
         "category": "clothes",
         "price": 3990,
-        "sale": 30,
+        "sale": 30%,
         "sale_price": 2990,
         "article": "2192132-W18_020",
         "color": [
