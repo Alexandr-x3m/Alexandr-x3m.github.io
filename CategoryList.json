@@ -1,0 +1,125 @@
+[
+    {
+        "id": 1,
+        "name": "Одежа",
+        "subcategories": [
+            {
+                "id": 1,
+                "name": "Свитшоты",
+                "name_product": "Свитшот"
+            },
+            {
+                "id": 2,
+                "name": "Комбинезоны",
+                "name_product": "Комбинезон"
+            },
+            {
+                "id": 3,
+                "name": "Брюки",
+                "name_product": "Брюки"
+            },
+            {
+                "id": 4,
+                "name": "Худи",
+                "name_product": "Худи"
+            },
+            {
+                "id": 5,
+                "name": "Куртки",
+                "name_product": "Куртка"
+            },
+            {
+                "id": 6,
+                "name": "Футболки",
+                "name_product": "Футболка"
+            },
+            {
+                "id": 7,
+                "name": "Лонгсливы",
+                "name_product": "Лонгслив"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Обувь",
+        "subcategories": [
+            {
+                "id": 1,
+                "name": "Ботинки",
+                "name_product": "Ботинки"
+            },
+            {
+                "id": 2,
+                "name": "Кроссовки",
+                "name_product": "Кроссовки"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Обувь",
+        "subcategories": [
+            {
+                "id": 1,
+                "name": "Носки",
+                "name_product": "Носки"
+            },
+            {
+                "id": 2,
+                "name": "Средства для обуви",
+                "name_product": "Средство для обуви"
+            },
+            {
+                "id": 3,
+                "name": "Ароматизаторы",
+                "name_product": "Ароматизатор"
+            },
+            {
+                "id": 4,
+                "name": "Брелоки",
+                "name_product": "Брелок"
+            },
+            {
+                "id": 5,
+                "name": "Ленточки",
+                "name_product": "Ленточка"
+            },
+            {
+                "id": 6,
+                "name": "Наклейки",
+                "name_product": "Наклейка"
+            },
+            {
+                "id": 7,
+                "name": "Маски",
+                "name_product": "Маска"
+            },
+            {
+                "id": 8,
+                "name": "Сумки поясные",
+                "name_product": "Сумка поясная"
+            },
+            {
+                "id": 9,
+                "name": "Шапки",
+                "name_product": "Шапка"
+            },
+            {
+                "id": 10,
+                "name": "Рюкзаки",
+                "name_product": "Рюкзак"
+            },
+            {
+                "id": 11,
+                "name": "Кепки",
+                "name_product": "Кепка"
+            },
+            {
+                "id": 12,
+                "name": "Шевроны",
+                "name_product": "Шеврон"
+            }
+        ]
+    }
+]
