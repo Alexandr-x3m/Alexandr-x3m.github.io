@@ -94,6 +94,66 @@
                 "thumbnail": "https://via.placeholder.com/90x90.png"
             }
         ]
+    },
+    {
+        "id": 4,
+        "name": "sweatshirt",
+        "brand": "Brand 2",
+        "category": "clothes",
+        "price": 1990,
+        "discount": true,
+        "discount_amount": 28,
+        "discount_price": 2990,
+        "article": "2192132-W18_020",
+        "color": [
+            "white",
+            "blue",
+            "green"
+        ],
+        "size": [
+            "M",
+            "L",
+            "XL"
+        ],
+        "description": "product description product description product description product description product description product description product description product description product description product description ",
+        "images": [
+            {
+                "id": 3,
+                "description": "description image 1",
+                "image": "https://via.placeholder.com/300x300.png",
+                "thumbnail": "https://via.placeholder.com/90x90.png"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "sweatshirt",
+        "brand": "Brand 2",
+        "category": "clothes",
+        "price": 190,
+        "discount": true,
+        "discount_amount": 0,
+        "discount_price": 2990,
+        "article": "2192132-W18_020",
+        "color": [
+            "white",
+            "blue",
+            "green"
+        ],
+        "size": [
+            "M",
+            "L",
+            "XL"
+        ],
+        "description": "product description product description product description product description product description product description product description product description product description product description ",
+        "images": [
+            {
+                "id": 3,
+                "description": "description image 1",
+                "image": "https://via.placeholder.com/300x300.png",
+                "thumbnail": "https://via.placeholder.com/90x90.png"
+            }
+        ]
     }
     
 ]
